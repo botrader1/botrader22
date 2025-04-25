@@ -1,0 +1,8 @@
+streamlit
+firebase-admin
+psycopg2-binary
+python-telegram-bot
+smtplib3
+yagmail
+ccxt
+python-binance
